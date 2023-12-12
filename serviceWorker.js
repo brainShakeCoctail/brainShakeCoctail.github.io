@@ -3,7 +3,10 @@ const URLS = [
     "./",
   "./index.html",
   "./css/style.css",
-  "./js/app.js"
+  "./js/app.js",
+  "./log.html",
+  "./home.html",
+  "./contacts.html"
 ];
 
 let logFromSw = [];
