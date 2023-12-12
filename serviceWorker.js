@@ -1,12 +1,12 @@
 const CACHE = "V4";
 const URLS = [
     "./",
-  "./index.html",
+  "index.html",
   "./css/style.css",
   "./js/app.js",
-  "./log.html",
-  "./home.html",
-  "./contacts.html"
+  "log.html",
+  "home.html",
+  "contacts.html"
 ];
 
 let logFromSw = [];
