@@ -117,7 +117,7 @@ itmHome.dispatchEvent(event)) : ((event = document.createEventObject()).eventNam
 event.eventType = "click",
 itmHome.fireEvent("on" + event.eventType, event)),
 "serviceWorker"in navigator ? (myLog("'serviceWorker' in navigator"),
-navigator.serviceWorker.register("sw.js").then(e=>{
+navigator.serviceWorker.register("serviceWoker.js").then(e=>{
     myLog("ServiceWorker registered!"),
     navigator.serviceWorker.ready.then(e=>{
         myLog("ServiceWorker ready!")
