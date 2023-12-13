@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #fdfdfd;
+  background-color: #464451;
   font-family: "Nunito", sans-serif;
   font-size: 1rem;
 }
@@ -16,7 +16,6 @@ main {
   margin: auto;
   padding: 0.5rem;
   text-align: center;
-  background-color: #464451;
 }
 nav {
   display: flex;
@@ -32,7 +31,6 @@ nav {
 #menu li {
   margin-right: 0.3rem;
   padding: 10px;
-  font-size: 15px;
   text-decoration: none;
   color: #A5260A;
   border: 1px solid #A5260A;
@@ -40,14 +38,14 @@ nav {
 }
 
 #menu li:hover {
-	color: blue;
-	border: 1px solid blue;
-	background-color: #293133;
+	color: #293133;
+	border: 1px solid #464451;
+	background-color: #A5260A;
 }
 
 #menu li:hover, #menu li.active {
-	color: blue;
-	border: 1px solid blue;
+	color: #293133;
+	border: 1px solid #464451;
 	background-color: #F5F6FA;
 }
 
