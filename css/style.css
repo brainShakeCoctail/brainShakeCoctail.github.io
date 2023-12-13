@@ -23,14 +23,15 @@ nav {
   align-items: center;
 }
 
-ul {
+#menu ul {
   list-style: none;
   display: flex;
 }
 
-li {
+#menu li {
   margin-right: 1rem;
 }
+
 .border li {
     padding: 7px 20px;
     margin-bottom: 10px;
