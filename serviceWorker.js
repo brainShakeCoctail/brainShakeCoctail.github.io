@@ -4,7 +4,7 @@ const URLS = [
   "index.html",
   "./css/style.css",
   "./js/app.js",
-  "./resources/log.html",
+  "log.html",
   "./resources/home.html",
   "contacts.html"
 ];
