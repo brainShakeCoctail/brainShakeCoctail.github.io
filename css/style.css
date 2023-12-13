@@ -38,6 +38,18 @@ nav {
   background-color: white;
 }
 
+#menu li:hover {
+	color: blue;
+	border: 1px solid blue;
+	background-color: #F5F6FA;
+}
+
+#menu li:hover, #menu li.active {
+	color: blue;
+	border: 1px solid blue;
+	background-color: #F5F6FA;
+}
+
 .border li {
     padding: 7px 20px;
     margin-bottom: 10px;
