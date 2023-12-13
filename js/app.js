@@ -1,3 +1,4 @@
+var e = document.body;
 let logFromMain = [];
 function myLog(e) {
     console.log(e),
