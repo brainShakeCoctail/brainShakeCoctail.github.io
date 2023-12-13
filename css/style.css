@@ -23,19 +23,19 @@ nav {
   align-items: center;
 }
 
-#menu ul {
+#menu {
   list-style: none;
   display: flex;
 }
 
 #menu li {
   margin-right: 1rem;
-	padding: 10px;
-	font: 15px;
-	text-decoration: none;
-	color: #1437AD;
-	border: 1px solid #1437AD;
-	background-color: white;
+  padding: 10px;
+  font: 15px;
+  text-decoration: none;
+  color: #1437AD;
+  border: 1px solid #1437AD;
+  background-color: white;
 }
 
 .border li {
