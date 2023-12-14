@@ -9,6 +9,7 @@ body {
   background-color: #E6E6EF;
   font-family: "Nunito", sans-serif;
   font-size: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 main {
@@ -104,7 +105,7 @@ nav {
     display: none;
 }
 h1 {
-  color: #e74c3c;
+  color: #880C0C;
   margin-bottom: 0.5rem;
 }
 
