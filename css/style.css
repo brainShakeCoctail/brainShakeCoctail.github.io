@@ -9,7 +9,6 @@ body {
   background-color: #E6E6EF;
   font-family: "Nunito", sans-serif;
   font-size: 1rem;
-
 }
 
 main {
@@ -54,6 +53,11 @@ nav {
 	border: 2px solid #E6E6EF;
 	border-radius: 10%;
 	background-color: #880C0C;
+}
+
+.border {
+    list-style: none;
+    padding: 0;
 }
 
 .border li {
