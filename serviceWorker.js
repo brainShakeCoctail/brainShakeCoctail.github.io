@@ -2,6 +2,7 @@ const CACHE = "V4";
 const URLS = [
     "./",
   "index.html",
+  "manifest.json",
   "./css/style.css",
   "./js/app.js",
   "log.html",
