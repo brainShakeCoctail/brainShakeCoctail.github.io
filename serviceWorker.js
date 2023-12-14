@@ -14,7 +14,7 @@ self.addEventListener("install", e=>{
 ),
 self.addEventListener("activate", e=>{
     e.waitUntil(caches.keys().then(e=>Promise.all(e.map(e=>{
-        if ("V4" !== e)
+        if ("V4" == e)
             return myLog(`Deleting cache ${e}`),
             caches.delete(e)
     }
