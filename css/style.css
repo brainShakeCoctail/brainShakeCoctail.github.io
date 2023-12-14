@@ -9,7 +9,7 @@ body {
   background-color: #E6E6EF;
   font-family: "Nunito", sans-serif;
   font-size: 1rem;
-  margin-bottom: 0.5rem;
+
 }
 
 main {
@@ -17,6 +17,7 @@ main {
   margin: auto;
   padding: 0.5rem;
   text-align: center;
+  margin-bottom: 0.5rem;
 }
 nav {
   display: flex;
@@ -30,6 +31,7 @@ nav {
 }
 
 #menu li {
+  margin-right: 0.3rem;
   padding: 10px;
   text-decoration: none;
   color: #880C0C;
@@ -39,6 +41,7 @@ nav {
 }
 
 #menu li:hover {
+	margin-right: 0.3rem;
 	color: #E6E6EF;
 	border: 2px solid #E6E6EF;
 	border-radius: 10%;
