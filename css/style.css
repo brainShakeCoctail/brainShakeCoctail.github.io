@@ -62,11 +62,10 @@ nav {
 }
 
 .border {
-    list-style: none;
     padding: 0;
 }
 
-.border li {
+.border div {
     padding: 7px 20px;
     margin-bottom: 10px;
     border-radius: 5px;
