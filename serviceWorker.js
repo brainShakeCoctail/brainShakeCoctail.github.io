@@ -6,6 +6,13 @@ const URLS = [
   "./js/app.js",
   "log.html",
   "./resources/home.html",
+  "./images/icons/icon-32x32.png",
+  "./images/icons/icon-64x64.png",
+  "./images/icons/icon-96x96.png",
+  "./images/icons/icon-128x128.png",
+  "./images/icons/icon-192x192.png",
+  "./images/icons/icon-256x256.png",
+  "./images/icons/icon-512x512.png",
   "contacts.html"
 ];
 
