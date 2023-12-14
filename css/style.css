@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #464451;
+  background-color: #E6E6EF;
   font-family: "Nunito", sans-serif;
   font-size: 1rem;
 }
@@ -31,21 +31,24 @@ nav {
 #menu li {
   padding: 10px;
   text-decoration: none;
-  color: #A5260A;
-  border: 1px solid #A5260A;
-  background-color: #293133;
+  color: #880C0C;
+  border: 2px solid #880C0C;
+  border-radius: 10%;
+  background-color: #E6E6EF;
 }
 
 #menu li:hover {
-	color: #293133;
-	border: 1px solid #464451;
-	background-color: #A5260A;
+	color: #E6E6EF;
+	border: 2px solid #E6E6EF;
+	border-radius: 10%;
+	background-color: #880C0C;
 }
 
 #menu li:hover, #menu li.active {
-	color: #293133;
-	border: 1px solid #464451;
-	background-color: #F5F6FA;
+	color: #E6E6EF;
+	border: 2px solid #E6E6EF;
+	border-radius: 10%;
+	background-color: #880C0C;
 }
 
 .border li {
