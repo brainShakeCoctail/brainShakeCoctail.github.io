@@ -85,14 +85,21 @@ nav {
 
 /* Log */
 .logstr {
-    font-size: 0.7em;
-    border-bottom: 1px solid blue;
+    font-size: 1em;
+    color: blue;
+    border: 4px dashed blue;
+    margin-bottom: 1%;
+    padding: 3px 10px 3px 10px;
+    word-break: break-word;
 }
 
 .logswstr {
-    font-size: 0.8em;
-    border-bottom: 1px solid blue;
+    font-size: 1em;
+    border: 4px solid red;
     color: #ff4411 !important;
+    margin-bottom: 1%;
+    padding: 3px 10px 3px 10px;
+    word-break: break-word;
 }
 
 /* Install Button */
