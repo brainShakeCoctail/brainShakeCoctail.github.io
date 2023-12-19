@@ -115,8 +115,6 @@ nav {
     max-width: 80%;
     line-height: 1.2em;
     border-radius: 10px;
-    display: flex;
-    justify-content: center;
 }
 div#btn_content{
     display: flex;
