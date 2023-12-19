@@ -118,6 +118,10 @@ nav {
     display: flex;
     justify-content: center;
 }
+div#btn_content{
+    display: flex;
+    justify-content: center;
+}
 
 #install-btn.active {
     display: block;
