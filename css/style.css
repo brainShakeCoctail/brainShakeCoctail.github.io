@@ -121,10 +121,6 @@ nav {
 #install-btn {
     display: none;
 }
-#install-btn:hover {
-    background: #00CCCC;
-}
-
 div#btn_content{
     display: flex;
     justify-content: center;
