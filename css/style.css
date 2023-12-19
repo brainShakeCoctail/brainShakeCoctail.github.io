@@ -104,7 +104,7 @@ nav {
 
 /* Install Button */
 #install-btn {
-    background: #00CCCC;
+    background: #0047AB;
     font-size: 200%;
     margin: 1em auto;
     display: block;
@@ -116,7 +116,7 @@ nav {
     border-radius: 10px;
 }
 #install-btn:hover {
-    background: #0047AB;
+    background: #00CCCC;
     font-size: 200%;
     margin: 1em auto;
     display: block;
