@@ -104,15 +104,26 @@ nav {
 
 /* Install Button */
 #install-btn {
-    background: #0088cc;
-    text-align: center;
+    background: #00CCCC;
     font-size: 200%;
     margin: 1em auto;
     display: block;
-    padding: .5em;
+    padding: 0.2em;
     color: white;
     width: 10em;
-    max-width: 80%;
+    max-width: 50%;
+    line-height: 1.2em;
+    border-radius: 10px;
+}
+#install-btn:hover {
+    background: #0047AB;
+    font-size: 200%;
+    margin: 1em auto;
+    display: block;
+    padding: 0.2em;
+    color: white;
+    width: 10em;
+    max-width: 50%;
     line-height: 1.2em;
     border-radius: 10px;
 }
