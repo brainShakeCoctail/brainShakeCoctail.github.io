@@ -108,19 +108,7 @@ nav {
     font-size: 200%;
     margin: 1em auto;
     display: block;
-    padding: 0.2em;
-    color: white;
-    width: 10em;
-    max-width: 50%;
-    line-height: 1.2em;
-    border-radius: 10px;
-}
-#install-btn:hover {
-    background: #00CCCC;
-    font-size: 200%;
-    margin: 1em auto;
-    display: block;
-    padding: 0.2em;
+    padding: .2em;
     color: white;
     width: 10em;
     max-width: 50%;
@@ -133,6 +121,11 @@ nav {
 #install-btn {
     display: none;
 }
+#install-btn:hover {
+    background: #00CCCC;
+    display: block;
+}
+
 div#btn_content{
     display: flex;
     justify-content: center;
