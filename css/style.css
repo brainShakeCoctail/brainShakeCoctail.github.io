@@ -121,8 +121,12 @@ nav {
 div#btn_content{
     display: flex;
     justify-content: center;
+    justify-content : space-evenly;
 }
-
+div#img_position{
+    display: flex;
+    justify-content: center;
+}
 #install-btn.active {
     display: block;
 }
