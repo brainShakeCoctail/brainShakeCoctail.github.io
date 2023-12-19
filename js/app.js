@@ -80,7 +80,7 @@ itmApi.addEventListener("click", e=>{
 );
 let event = null;
 function showEmojis(e, t) {
-    const n = "<article>\n<img src='resources/placeholder.png' data-src='emojisUrl' alt='NAME'>\n<h3>NM</h3>\n</article>";
+    const n = "<div class="card"><img class="card--avatar" src='resources/placeholder.png' data-src='emojisUrl' alt='NAME'><h1 class="card--title">NM</h1></div>";
     let o = "";
     for (let e in t) {
         o += n.replace(/NM/gi, e).replace(/emojisUrl/gi, t[e])
