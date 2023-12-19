@@ -127,6 +127,12 @@ nav {
     line-height: 1.2em;
     border-radius: 10px;
 }
+#install-btn.active {
+    display: block;
+}
+#install-btn {
+    display: none;
+}
 div#btn_content{
     display: flex;
     justify-content: center;
@@ -137,14 +143,6 @@ div#img_position{
     align-content: center;
     margin-right: 15px;
 }
-#install-btn.active {
-    display: block;
-}
-
-#install-btn {
-    display: none;
-}
-
 h1 {
   color: #880C0C;
   margin-bottom: 0.5rem;
