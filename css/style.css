@@ -104,22 +104,22 @@ nav {
 
 /* Install Button */
 #install-btn {
-    background: #0047AB;
-    font-size: 200%;
-    margin: 1em auto;
-    display: block;
-    padding: .2em;
-    color: white;
-    width: 10em;
-    max-width: 50%;
-    line-height: 1.2em;
-    border-radius: 10px;
+  background: #0088cc;
+  text-align: center;
+  font-size: 200%;
+  margin: 1em auto;
+  display: block;
+  padding: .5em;
+  color: white;
+  width: 10em;
+  max-width: 80%;
+  line-height: 1.2em;
 }
 #install-btn.active {
-    display: block;
+  display: block;
 }
 #install-btn {
-    display: none;
+  display: none;
 }
 div#btn_content{
     display: flex;
